@@ -38,13 +38,20 @@ spring.kafka.consumer.bootstrap-servers: The address of your Kafka server.
 
 ## Apache Kafka Producer
 The producer application sends messages to a Kafka topic. It exposes a REST endpoint at /send which sends a message to the Kafka topic when accessed.  
+![App Screenshot](https://github.com/Sarthakverse/Kafka-Demo/assets/117356021/2f171a8a-7a24-4e06-bedb-e1238e8132ba)
 
 
 ## Apache Kafka Consumer
 The consumer application listens for messages on a Kafka topic. It prints out any messages it receives to the console.
+![App Screenshot](https://github.com/Sarthakverse/Kafka-Demo/assets/117356021/3835f18f-92b1-4167-8d66-57eb1477a18d)
+
+
+
 
 ## Built With
 - Java
 - Spring Boot
 - Apache Kafka
+
+![App Screenshot](https://github.com/Sarthakverse/Kafka-Demo/assets/117356021/53532b4c-c9d4-47cf-bff0-4fb7dbfe41ab)
 
